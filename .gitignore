@@ -1,2 +1,4 @@
 /.idea
 /.gitignore
+/math_lib
+/math_lib/*.py
